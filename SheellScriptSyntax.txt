@@ -1,0 +1,10 @@
+#!/bin/Bash
+#
+#SCRIPT: Name of the Script
+#AUTHOR: RKARUNA
+#Date: Date_Of_Creationg
+#REV;1.1.1A (Valid are A, B, D, T and P) 
+# For Alpha, Beata Dev, Test and Prodcution) 
+# 
+# Platform: ( Specifiy: aix, hp-ux, Linx, Open BSD, sOLARIS OR NOT Platfrom Dependent) 
+
